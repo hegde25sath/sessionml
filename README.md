@@ -83,7 +83,7 @@ Intended soundness properties:
 
 Using Nix to provide OCaml, Dune, QCheck, etc. opam NOT required.
 
-``bash
+```bash
 nix develop
 dune build
 dune runtest
